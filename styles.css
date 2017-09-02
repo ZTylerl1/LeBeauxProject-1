@@ -152,7 +152,6 @@ a.social {
   transition: all .5s;
 }
 
-}
 a.social:hover {
   opacity: 1;
 }
